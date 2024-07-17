@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kindergarten-menu/static/css/main.c39e9895.css",
+    "main.js": "/kindergarten-menu/static/js/main.a12be5bf.js",
+    "static/js/453.7daac6eb.chunk.js": "/kindergarten-menu/static/js/453.7daac6eb.chunk.js",
+    "index.html": "/kindergarten-menu/index.html",
+    "main.c39e9895.css.map": "/kindergarten-menu/static/css/main.c39e9895.css.map",
+    "main.a12be5bf.js.map": "/kindergarten-menu/static/js/main.a12be5bf.js.map",
+    "453.7daac6eb.chunk.js.map": "/kindergarten-menu/static/js/453.7daac6eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c39e9895.css",
+    "static/js/main.a12be5bf.js"
+  ]
+}
